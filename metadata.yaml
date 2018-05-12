@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/535
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45258#Villej--el-imi-
 gutenberg_issued: '2014-03-29'
 gutenberg_type: Text
 identifiers:
